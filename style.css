@@ -139,6 +139,10 @@ nav:hover ul {
     float: left;
     margin: 4% 0 4% 0;
 }
+.left-col p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
 .sidebar{
     width: 20%;
     float: left;
