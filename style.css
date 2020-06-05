@@ -6,6 +6,7 @@ html, body{
     padding: 0;
     height: 100%;
     width: 100%;
+    background-color: darkgray;
 }
 h2 {
     font-family: "Playfair Display", serif;
@@ -146,7 +147,7 @@ nav:hover ul {
 .one-third-port{
     width: 29.333%;
     padding: 2%;
-    float: left
+    float: left;
 }
 .one-third-port img:hover{
     opacity: .6;
