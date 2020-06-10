@@ -148,6 +148,11 @@ nav:hover ul {
     float: left;
     margin: 4%;
 }
+.sideBar{
+    width: 20%;
+    float: left;
+    margin: 4%;
+}
 .one-third-port{
     width: 29.333%;
     padding: 2%;
@@ -231,6 +236,10 @@ footer.second p {
     .sidebar{
         width: 96%;
         margin: 0 auto;
+    }
+    .sideBar{
+        width: 96%;
+        margin: 0 0 0 150px;
     }
     img{
         padding: 2%;
